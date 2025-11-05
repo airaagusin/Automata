@@ -33,7 +33,7 @@ The diagram below shows the **Moore Machine**, where the output depends only on 
 ## 🔵 Mealy Machine
 The diagram below shows the **Mealy Machine**, where the output depends on both the state and the input.
 
-![Mealy Machine Diagram](C:\Users\agusi\auotmata\deepseek_mermaid_20251105_a5d011.png)
+![Mealy Machine Diagram](deepseek_mermaid_20251105_a5d011.png)
 
 **Explanation:**
 
